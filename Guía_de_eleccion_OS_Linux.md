@@ -31,7 +31,7 @@ Antes de elegir, es fundamental entender que no todas las distribuciones operan 
 Estas distribuciones son el mejor punto de partida para ir tomando contacto con la terminal. Priorizamos la estabilidad, facilidad de uso y un entorno gráfico pulido.
 
 *   **Ubuntu:** Extremadamente sencillo, su interfaz gráfica es muy completa y apenas requiere usar la terminal.
-*   **Pop!OS:** Excelente compatibilidad con tarjetas gráficas Nvidia y Window Manager integrado.
+*   **Pop!OS:** Excelente compatibilidad con tarjetas gráficas Nvidia e incluye Tiling Window Manager (gestor de ventanas tipo mosaico.
 *   **Linux Mint:** Probablemente la opción más natural para quienes vienen de Windows. Ofrece un entorno de escritorio (Cinnamon) muy pulido e intuitivo.
 
 ## 2. Usuarios avanzados o con ganas de aprender
