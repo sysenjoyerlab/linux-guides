@@ -45,7 +45,7 @@ Cuando buscas sacar el máximo partido a tu sistema y entender cómo funciona:
 Puedes instalar un SO ya preparado o modificar uno base. Yo recomiendo modificar uno base para reducir la **superficie de ataque**.
 
 *   **Kali Linux (Debian-based):** El estándar de la industria; la mayoría de cursos y guías están enfocados en esta distribución.
-*   **BlackArch (Arch-based):** Cuenta con un repositorio enorme (AUR) de herramientas, con las ventajas de ser *rolling release* y tener acceso a la *ArchWiki* auqnue esta en ampliamente utilizada para otros sistemas operativos no Arch.
+*   **BlackArch (Arch-based):** Cuenta con un repositorio enorme (AUR) de herramientas, con las ventajas de ser *rolling release* y tener acceso a la *ArchWiki* (aunque esta Wiki es ampliamente utilizada para otros sistemas operativos no Arch).
 *   **Parrot:** Destaca por su versatilidad. Pensado tanto para auditorías de seguridad como para uso diario y desarrollo.
 
 ## 4. Seguridad y Privacidad
